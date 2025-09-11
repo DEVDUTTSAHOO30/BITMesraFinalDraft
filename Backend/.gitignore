@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+.env/
+.env 
+
+# Virtual environment
+virtual_env/
+virtualenv/
+virtual-env/
+virtualenv-*
+venv/
+env/
+.venv/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+thumbs.db
+
+# Logs and other temporary files
+*.log
+*.tmp
+
+# Package management
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+.tox/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Sphinx documentation
+build/
+
+# Distribution / packaging
+dist/
+*.whl
+*.zip
+*.tar.gz
+
+# Miscellaneous
+*.bak
+*.swp
